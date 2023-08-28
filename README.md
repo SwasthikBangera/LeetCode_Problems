@@ -6,4 +6,4 @@ The list will be updated sporadically as there is progress in the course.
 
 Note: This repo isn't updated chronologically 
 
-Problems solved include Array, hashtag, Linear, etc
+Problems solved include Arrays and Hashing, Two pointers, Stack, Binary search, Slinding window, Linked list, Trees, Tries, Backtracking, Heap/Priority queue, Graphs, 1-D DP, Intervals, Greedy, Advanced graphs, 2-D DP, Bit manipulation, and Math & geometry. 
