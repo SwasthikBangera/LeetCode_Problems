@@ -1,4 +1,4 @@
-# LeetCode_Problems
+# LeetCode Solutions
 
 This repo documents the sequential learning of programming using NeetCode Algorithm Roadmap.
 The list will be updated sporadically.
