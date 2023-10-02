@@ -6,6 +6,7 @@ The list will be updated sporadically.
 Problems and lessons addressed include:
 
 - Arrays and Hashing
+  - Contains Duplicate
 - Two pointers
 - Stack
 - Binary search
