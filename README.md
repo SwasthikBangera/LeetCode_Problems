@@ -8,6 +8,7 @@ Problems and lessons addressed include:
 - Arrays and Hashing
   - Contains Duplicate
   - Valid Anagram
+  - Two Sum
 - Two pointers
 - Stack
 - Binary search
