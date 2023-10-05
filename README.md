@@ -9,6 +9,7 @@ Problems and lessons addressed include:
   - Contains Duplicate
   - Valid Anagram
   - Two Sum
+  - Group Anagrams
 - Two pointers
 - Stack
 - Binary search
