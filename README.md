@@ -10,6 +10,7 @@ Problems and lessons addressed include:
   - Valid Anagram
   - Two Sum
   - Group Anagrams
+  - Top K Frequent Elements
 - Two pointers
 - Stack
 - Binary search
