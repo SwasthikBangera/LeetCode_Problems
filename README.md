@@ -11,6 +11,7 @@ Problems and lessons addressed include:
   - Two Sum
   - Group Anagrams
   - Top K Frequent Elements
+  - Product of Array Except Self
 - Two pointers
 - Stack
 - Binary search
