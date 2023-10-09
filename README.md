@@ -3,15 +3,12 @@
 This repo documents the sequential learning of programming using NeetCode Algorithm Roadmap.
 The list will be updated sporadically.
 
-Problems and lessons addressed include:
+Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H - Hard.
 
 - Arrays and Hashing
-  - Contains Duplicate
-  - Valid Anagram
-  - Two Sum
-  - Group Anagrams
-  - Top K Frequent Elements
-  - Product of Array Except Self
+  - Contains Duplicate (E)
+  - Valid Anagram (E)
+  - Two Sum (E)
 - Two pointers
 - Stack
 - Binary search
