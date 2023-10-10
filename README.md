@@ -10,6 +10,7 @@ Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H
   - Valid Anagram (E)
   - Two Sum (E)
 - Two pointers
+  - Valid Palindrome (E)
 - Stack
 - Binary search
 - Sliding window
