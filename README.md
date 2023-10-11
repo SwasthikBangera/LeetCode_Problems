@@ -12,6 +12,7 @@ Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H
 - Two pointers
   - Valid Palindrome (E)
 - Stack
+  - Valid Parentheses (E)
 - Binary search
 - Sliding window
 - Linked list
