@@ -14,6 +14,7 @@ Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H
 - Stack
   - Valid Parentheses (E)
 - Binary search
+  - Binary Search (E)
 - Sliding window
 - Linked list
 - Trees
