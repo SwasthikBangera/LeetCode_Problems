@@ -16,6 +16,7 @@ Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H
 - Binary search
   - Binary Search (E)
 - Sliding window
+  - Best Time to Buy And Sell Stock
 - Linked list
 - Trees
 - Tries
