@@ -9,6 +9,7 @@ Problems and lessons addressed are listed below. Legend: E - Easy, M - Medium, H
   - Contains Duplicate (E)
   - Valid Anagram (E)
   - Two Sum (E)
+  - Group Anagrams (M)
 - Two pointers
   - Valid Palindrome (E)
 - Stack
